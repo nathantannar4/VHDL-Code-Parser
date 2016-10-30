@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1445539509 source:c:\users\nathan\onedrive\school documents\ensc 251\assignment3\assignment3\main.cpp
+	"parserClasses.h"
+	<iostream>
+	<fstream>
+
+1445464863 c:\users\nathan\onedrive\school documents\ensc 251\assignment3\assignment3\parserclasses.h
+	<string>
+
+1445543264 source:c:\users\nathan\onedrive\school documents\ensc 251\assignment3\assignment3\parserclasses.cpp
+	"parserClasses.h"
+	<string>
+	<iostream>
+
